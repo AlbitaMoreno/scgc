@@ -1,0 +1,1406 @@
+# Translation of Themes - Vogue in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Vogue package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-15 20:54:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Vogue\n"
+
+#. Description of the theme
+msgid "Vogue is a very loved and easy to use WordPress theme that is ready for your next project. Build with SEO (Search Engine Optimization) settings, fully responsive and fast loading, Vogue offers multiple header layouts, custom WooCommerce design, multiple footer layouts, multiple blog layouts and a bunch of extra layout customization and full color settings, all built neatly into the WordPress Customizer. This makes Vogue very extensible for developers to customize and very easy for non-developers/designers to build a professional website. With Vogue you can easily build any type of website such as a blog, portfolio, business website and WooCommerce storefront with a beautiful & professional design. Works with the most popular page builders such as Elementor, Beaver Builder, Visual Composer, Divi, SiteOrigin and other top free plugins. Look no further... Give Vogue a go :) View the Vogue Demo – https://demo.kairaweb.com/#vogue"
+msgstr "Vogue es un tema de WordPress muy querido y fácil de utilizar, preparado para tu siguiente proyecto. Construido con ajustes SEO (optimización de motores de búsqueda), completamente adaptable y de carga rápida, Vogue ofrece múltiples diseños de cabecera, diseños personalizados para WooCommerce, múltiples plantillas para pie de página, para el blog y un montón de personalizaciones extra de los diseños y ajustes a todo color, todo perfectamente integrado dentro del personalizador de WordPress. Esto hace que Vogue sea muy extensible para los desarrolladores para personalizarlo y muy sencillo para que los diseñadores/no desarrolladores construyan una web profesional. Con Vogue podrás construir fácilmente cualquier tipo de web, como un blog, porfolio, web corporativa y escaparate de WooCommerce con un diseño bonito y profesional. Trabaja con los maquetadores de páginas más populares, como Elementor, Beaver Builder, Visual Composer, Divi, SiteOrigin y otros plugins gratuitos muy conocidos. No busques más... Dale una oportunidad a Vogue :) Mira la demo - https://demo.kairaweb.com/#vogue"
+
+#. Theme Name of the theme
+#: includes/vogue-pro/class-customize.php:76
+msgid "Vogue"
+msgstr "Vogue"
+
+#: functions.php:290
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%title"
+
+#: functions.php:289
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%title"
+
+#: functions.php:278
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: customizer/customizer-options.php:790
+msgid "<b>Premium Extra Features:</b><br />- Change Social Links to their brand color<br />- Over 22 different social profile links available<br />- Setting to add your own social icon"
+msgstr "<b>Características de Premium Extra</b><br />- Cambiar los enlaces sociales a su color corporativo<br />- Más de 22 enlaces a redes sociales distintos disponibles<br />- Ajuste para añadir tu propio icono social"
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin obligatorio está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins obligatorios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin tiene que actualizarse a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins tienen que actualizarse a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+#: customizer/customizer-options.php:433
+msgid "Social Icon Spacing"
+msgstr "Espaciado del icono social"
+
+#: customizer/customizer-options.php:421
+msgid "Social Icon Size"
+msgstr "Tamaño del icono social"
+
+#: customizer/customizer-options.php:84
+msgid "Disable Google Fonts and only select from web-safe fonts"
+msgstr "Desactivar Google Fonts y solo seleccionar fuentes web seguras"
+
+#. Template Name of the theme
+msgid "Gutenberg Template"
+msgstr "Plantilla Gutenberg"
+
+#: customizer/customizer-options.php:290
+msgid "Randomize the Slider Slides"
+msgstr "Aleatorizar las diapositivas del carrusel"
+
+#: customizer/customizer-options.php:650
+msgid "Default Body Font Size"
+msgstr "Tamaño por defecto de la fuente del cuerpo del texto"
+
+#: customizer/customizer-options.php:357
+msgid "Blog List Title Font Size"
+msgstr "Tamaño de la fuente de los títulos del listado del blog"
+
+#: customizer/customizer-options.php:226
+msgid "<b>Premium Extra Features:</b><br />- Add/Show WooCommerce Cart items basket<br />- Change Shopping Cart Icon<br />- Set Sticky Navigation<br />- Change header density - Comfortable or Compact<br />- Remove the WooCommerce Cart<br />- Option to replace default search with Shortcode<br />- Remove Slider Text on mobile<br />- Remove Top Bar on mobile devices<br />- Customize Navigation font size"
+msgstr "<b>Características premium adicionales:</b><br />- Añadir/Mostrar el carrito de WooCommerce <br />- Cambiar el icono del carrito<br />- Fijar la navegación<br />- Cambiar la densidad de la cabecera - Cómoda o Compacta <br />- Quitar el carrito de WooCommerce <br />- Opción de reemplazar la búsqueda por defecto con un Shortcode<br />- Quitar el texto del carrusel en móviles <br />- Quitar la barra superior en móviles<br />- Personalizar el tamaño de fuente del la navegación"
+
+#: customizer/customizer-options.php:123
+msgid "Position from the top"
+msgstr "Posición desde arriba"
+
+#: customizer/customizer-options.php:80
+msgid "GDPR: Disable Google Fonts"
+msgstr "RGPD: Desactivar Google Fonts"
+
+#: customizer/customizer-options.php:669
+msgid "Vogue Theme Text"
+msgstr "Texto del tema Vogue"
+
+#: customizer/customizer-options.php:597
+msgid "Vogue Theme Fonts"
+msgstr "Fuentes del tema Vogue"
+
+#: customizer/customizer-options.php:537
+msgid "Widget Titles Element"
+msgstr "Elemento Títulos de widgets"
+
+#: customizer/customizer-options.php:521
+msgid "Blog List Titles Element"
+msgstr "Elemento Títulos del listado del blog"
+
+#: customizer/customizer-options.php:505
+msgid "Page Titles Element"
+msgstr "Elemento Títulos de página"
+
+#: customizer/customizer-options.php:488
+msgid "Site Description Element"
+msgstr "Elemento Descripción del sitio"
+
+#: customizer/customizer-options.php:471
+msgid "Site Title Element"
+msgstr "Elemento Título del sitio"
+
+#: customizer/customizer-options.php:467 customizer/customizer-options.php:484
+#: customizer/customizer-options.php:501 customizer/customizer-options.php:517
+#: customizer/customizer-options.php:533
+msgid "H6"
+msgstr "H6"
+
+#: customizer/customizer-options.php:466 customizer/customizer-options.php:483
+#: customizer/customizer-options.php:500 customizer/customizer-options.php:516
+#: customizer/customizer-options.php:532
+msgid "H5"
+msgstr "H5"
+
+#: customizer/customizer-options.php:465 customizer/customizer-options.php:482
+#: customizer/customizer-options.php:499 customizer/customizer-options.php:515
+#: customizer/customizer-options.php:531
+msgid "H4"
+msgstr "H4"
+
+#: customizer/customizer-options.php:464 customizer/customizer-options.php:481
+#: customizer/customizer-options.php:498 customizer/customizer-options.php:514
+#: customizer/customizer-options.php:530
+msgid "H3"
+msgstr "H3"
+
+#: customizer/customizer-options.php:463 customizer/customizer-options.php:480
+#: customizer/customizer-options.php:497 customizer/customizer-options.php:513
+#: customizer/customizer-options.php:529
+msgid "H2"
+msgstr "H2"
+
+#: customizer/customizer-options.php:462 customizer/customizer-options.php:479
+#: customizer/customizer-options.php:496 customizer/customizer-options.php:512
+#: customizer/customizer-options.php:528
+msgid "H1"
+msgstr "H1"
+
+#: customizer/customizer-options.php:456
+msgid "SEO (Search Engine Optimization)"
+msgstr "SEO (Optimización de motores de búsqueda)"
+
+#: customizer/customizer-options.php:283
+msgid "Pause Slider on mouse hover"
+msgstr "Pausar el carrusel al pasar el cursor por encima"
+
+#: customizer/customizer-options.php:64
+msgid "Vogue Theme Settings"
+msgstr "Ajustes del tema Vogue"
+
+#: functions.php:386
+msgid "Contact Form by WPForms"
+msgstr "Contact Form de WPForms"
+
+#: customizer/customizer-options.php:400
+msgid "Add \"Privacy Policy\" page link"
+msgstr "Añade el enlace a la página \"Política de privacidad\""
+
+#: customizer/customizer-options.php:364
+msgid "Remove Single Page Next & Previous posts"
+msgstr "Quitar las entradas anterior y siguiente de las entradas individiales"
+
+#: customizer/customizer-options.php:46
+msgid "Site Tagline - Lowercase"
+msgstr "Descripción corta del sitio - En minúscula"
+
+#: customizer/customizer-options.php:131
+msgid "Products Full Width on Mobile"
+msgstr "Productos de ancho completo en móviles"
+
+#: customizer/customizer-options.php:39
+msgid "Site Title - Uppercase"
+msgstr "Título del sitio - En Mayúscula"
+
+#: templates/slider/homepage-slider.php:73
+msgid "Add your own slides here"
+msgstr "Añade tus propias diapositivas aquí"
+
+#: templates/slider/homepage-slider.php:73
+msgid "See how to"
+msgstr "Mira cómo hacerlo"
+
+#: customizer/customizer-options.php:345
+msgid "Select which cut the Blog list uses<br />Recommended: Optimize images before upload"
+msgstr "Selecciona qué corte utiliza la lista del blog<br />Recomendado: Optimizar imágenes antes de subir"
+
+#: customizer/customizer-options.php:342
+msgid "Blog Image Cut"
+msgstr "Corte de la imagen del blog"
+
+#: customizer/customizer-options.php:334
+msgid "Blog Image Shape"
+msgstr "Forma de la imagen del blog"
+
+#: customizer/customizer-options.php:330
+msgid "Round Images"
+msgstr "Imágenes redondas"
+
+#: customizer/customizer-options.php:329
+msgid "Square Blocks"
+msgstr "Bloques cuadrados"
+
+#: customizer/customizer-options.php:328
+msgid "Image Shape Blocks"
+msgstr "Bloques de forma de la imagen"
+
+#: customizer/customizer-options.php:216
+msgid "Remove Phone Number"
+msgstr "Eliminar número de teléfono"
+
+#: customizer/customizer-options.php:209
+msgid "Remove Address"
+msgstr "Eliminar dirección"
+
+#: customizer/customizer-options.php:202 customizer/customizer-options.php:414
+msgid "Remove Social Links"
+msgstr "Eliminar enlaces de redes sociales"
+
+#: customizer/customizer-options.php:195
+msgid "Remove Search"
+msgstr "Eliminar buscador"
+
+#: customizer/customizer-options.php:179
+msgid "Navigation Text - Normal Case"
+msgstr "Texto de navegación - caso normal"
+
+#: customizer/customizer-library/custom-controls/imageselect.php:22
+msgid "Full"
+msgstr "Completo"
+
+#: customizer/customizer-options.php:812
+msgid "Header Footer Elementor"
+msgstr "Cabecera Pie Elementor"
+
+#: customizer/customizer-options.php:118
+msgid "Add <a href=\"#vogue-social-section\" rel=\"tc-section\">Social Icons</a> for this to show"
+msgstr "Añade <a href=\"#vogue-social-section\" rel=\"tc-section\">iconos sociales</a> para mostrar esto"
+
+#: customizer/customizer-options.php:115
+msgid "Add Side Aligned Social Icons"
+msgstr "Añade iconos sociales alineados al lado"
+
+#: templates/social-links.php:35 templates/footers/footer-social.php:42
+msgid "Find Us on VKontakte"
+msgstr "Encuéntranos en VKontakte"
+
+#: templates/social-links.php:31 templates/footers/footer-social.php:38
+msgid "Find Us on Houzz"
+msgstr "Encuéntranos en Houzz"
+
+#: customizer/customizer-options.php:781
+msgid "VK"
+msgstr "VK"
+
+#: customizer/customizer-options.php:775
+msgid "Houzz"
+msgstr "Houzz"
+
+#: customizer/customizer-options.php:727
+msgid "Vogue Social Links"
+msgstr "Enlaces de redes sociales de Vogue"
+
+#: customizer/customizer-options.php:166
+msgid "Header Standard Two"
+msgstr "Cabecera estándar dos"
+
+#: customizer/customizer-options.php:164
+msgid "Header Centered Two"
+msgstr "Cabecera centrada dos"
+
+#: customizer/customizer-options.php:163
+msgid "Header Centered One"
+msgstr "Cabecera centrada uno"
+
+#: upgrade/tpl/upgrade-page.php:123
+msgid "One of the most honest WordPress Themes!<br /><br />In the \"Jungle\" of \"all the promising\" modern and free WordPress Themes out there, is the Vogue theme from Kaira, one of the very best at the moment, Period!"
+msgstr "¡Uno de los temas de WordPress más honestos!<br /><br />En la \"jungla\" de  \"prometedores\" temas modernos y gratuitos de WordPress, el tema Vogue de Kaira es uno de los mejores actualmente, ¡y punto!"
+
+#: upgrade/tpl/upgrade-page.php:120
+msgid "Madzzoni"
+msgstr "Madzzoni"
+
+#: customizer/customizer-options.php:679
+msgid "The address in the Header and Social Footer"
+msgstr "La dirección en la cabecera y el pie de página social"
+
+#: upgrade/tpl/upgrade-page.php:100
+msgid "We aim to keep our prices cheaper than other theme shops, while still offering you the best WordPress themes."
+msgstr "Nuestro objetivo es mantener nuestros precios más bajos que otras tiendas de temas, y a la vez ofrecer los mejores temas de WordPress."
+
+#: upgrade/tpl/upgrade-page.php:91
+msgid "Theme: Vogue, built by <a href=\"%s\" target=\"_blank\">Kaira</a>"
+msgstr "Tema: Vogue, desarrollado por <a href=\"%s\" target=\"_blank\">Kaira</a>"
+
+#: upgrade/tpl/upgrade-page.php:86
+msgid "Rate Vogue 5 stars"
+msgstr "Puntúa a Vogue con 5 estrellas"
+
+#: upgrade/tpl/upgrade-page.php:82
+msgid "Please help by giving us a 5 star rating on WordPress.org :)"
+msgstr "Por favor, ayúdanos dándonos una puntuación de 5 estrellas en WordPress.org :)"
+
+#: upgrade/tpl/upgrade-page.php:81
+msgid "Have you enjoyed using Vogue?"
+msgstr "¿Te ha gustado usar Vogue?"
+
+#: upgrade/tpl/upgrade-page.php:74
+msgid "Documentation"
+msgstr "Documentación"
+
+#: upgrade/tpl/upgrade-page.php:70
+msgid "We have on-growing documentation on setting up your website with the Vogue theme"
+msgstr "Tenemos documentación en constante desarrollo para los ajustes de tu web con el tema Vogue"
+
+#: upgrade/tpl/upgrade-page.php:51 upgrade/tpl/upgrade-page.php:63
+msgid "Vogue Child Theme"
+msgstr "Tema hijo de Vogue"
+
+#: upgrade/tpl/upgrade-page.php:47 upgrade/tpl/upgrade-page.php:59
+msgid "Or learn more on creating/editing a <a href=\"%s\" target=\"_blank\">Child Theme</a>"
+msgstr "U obtén más información sobre como crear/editar un <a href=\"%s\" target=\"_blank\">tema hijo</a>"
+
+#: upgrade/tpl/upgrade-page.php:46 upgrade/tpl/upgrade-page.php:58
+msgid "Download a working Child Theme for Vogue"
+msgstr "Descarga un tema hijo operativo para Vogue"
+
+#: upgrade/tpl/upgrade-page.php:24
+msgid "<strong>All settings for Vogue</strong> are neatly built into the <a href=\"%s\">WordPress Customizer</a> so you can change and edit settings to view what happens before saving and making any of the changes live"
+msgstr "<strong>Todas los ajustes para Vogue</strong> están perfectamente integradas en el <a href=\"%s\">personalizador de WordPress</a> para que puedas cambiar y editar los ajustes para que veas el resultado antes de guardar los cambios"
+
+#: includes/inc/class-tgm-plugin-activation.php:1092
+msgid "See more on using the Vogue theme"
+msgstr "Ver más sobre el uso del tema Vogue"
+
+#: customizer/customizer-options.php:141
+msgid "<b>Premium Extra Features:</b><br />- Settings to add \"Site Built By\" backlinks to the footer<br />- Site Boxed / Full Width layouts<br />- Set custom website container width<br />- Set page sidebar custom width<br />- Remove all Page Titles<br />- Page Featured Image displayed as full width banner<br />- Set WooCommerce Shop, Archives & Product pages to Left Sidebar<br />- Set WooCommerce Shop, Archives & Product pages to Full Width<br />- Remove WooCommerce Product borders<br />- Set Shop products per page<br />- Set Shop products per row<br />- Remove WooCommerce Product Image Zoom and/or LightBox"
+msgstr "<b>Características extras premium:</b><br />- Sitio en caja / estructuras de ancho completo<br />- Establecer ancho personalizado del contenedor de la web<br />- Establecer el ancho personalizado de la barra lateral de la página<br />- Eliminar todos los títulos de páginas<br />- Mostrar imagen destacada de la página como banner de ancho completo<br />- Establecer páginas de tienda, archivo y producto de WooCommerce en la barra lateral izquierda<br />- Establecer páginas de tienda, archivo y producto de WooCommerce a ancho completo<br />- Eliminar los bordes de producto de WooCommerce<br />- Establecer los productos por página en la tienda<br />- Establecer los productos por fila en la tienda<br />- Eliminar el zoom y/o la caja de luz de la imagen de producto de WooCommerce"
+
+#: functions.php:375
+msgid "Elementor Page Builder"
+msgstr "Elementor Page Builder"
+
+#: customizer/customizer-options.php:805
+msgid "Mega Menu"
+msgstr "Mega Menú"
+
+#: customizer/customizer-options.php:800
+msgid "Vogue adds/removes custom styling to support external plugins"
+msgstr "Vogue añade/elimina estilos personalizados para ser compatible con plugins externos"
+
+#: customizer/customizer-options.php:798
+msgid "Plugin Support"
+msgstr "Compatibilidad de plugin"
+
+#: functions.php:391
+msgid "Breadcrumb NavXT"
+msgstr "Breadcrumb NavXT"
+
+#: functions.php:381
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: customizer/customizer-options.php:381
+msgid "Footer"
+msgstr "Pie"
+
+#: customizer/customizer-options.php:234
+msgid "Home Page Slider"
+msgstr "Carrusel de la página de inicio"
+
+#: customizer/customizer-options.php:149
+msgid "Header"
+msgstr "Cabecera"
+
+#: customizer/customizer-options.php:72
+msgid "Site Layout"
+msgstr "Estructura del sitio"
+
+#: customizer/customizer-options.php:56
+msgid "This only applies if a logo image is uploaded"
+msgstr "Esto solo se aplica si se ha subido una imagen para el logo"
+
+#: customizer/customizer-options.php:53
+msgid "Set a max-width for the logo"
+msgstr "Establece un ancho máximo para el logo"
+
+#: customizer/customizer-options.php:33
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: customizer/customizer-options.php:257
+msgid "Enter the ID's of the post categories you want to display in the slider. Eg: \"13,17,19\" (no spaces and only comma's)<br /><br />Get the ID at <b>Posts -> Categories</b>.<br /><br />Or <a href=\"https://kairaweb.com/documentation/setting-up-the-default-slider/\" target=\"_blank\"><b>See more instructions here</b></a>"
+msgstr "Introduce los ID's de las categorías de los artículos que quieres mostrar en el carrusel. Ej: \"13,17,19\" (sin espacios y solo comas)<br /><br />Obtén el ID en <b>Entradas -> Categorías</b>.<br /><br />O <a href=\"https://kairaweb.com/documentation/setting-up-the-default-slider/\" target=\"_blank\"><b>lee más instrucciones aquí</b></a>"
+
+#: customizer/customizer-options.php:264
+msgid "Enter the shortcode give by the slider plugin"
+msgstr "Escribe el shortcode que proporciona el plugin de slider"
+
+#: templates/footers/footer-standard.php:46
+msgid "<div class=\"footer-copyright\">Theme: %1$s by %2$s"
+msgstr "<div class=\"footer-copyright\">Tema: %1$s de %2$s"
+
+#: templates/social-links.php:11 templates/footers/footer-social.php:18
+msgid "Follow Us on Twitter"
+msgstr "Síguenos en Twitter"
+
+#: templates/social-links.php:7 templates/footers/footer-social.php:14
+msgid "Find Us on Facebook"
+msgstr "Encuéntranos en Facebook"
+
+#: customizer/customizer-options.php:745
+msgid "Twitter"
+msgstr "Twitter"
+
+#: customizer/customizer-options.php:739
+msgid "Facebook"
+msgstr "Facebook"
+
+#: customizer/customizer-options.php:718
+msgid "<b>Premium Extra Features:</b><br />- Change attribution/copyright text to your own"
+msgstr "<b>Características extras premium:</b><br />- Cambiar texto de atribución/copyright por el tuyo propio"
+
+#: customizer/customizer-options.php:374
+msgid "<b>Premium Extra Features:</b><br />- Display Full Post or Summary<br />- Includes blog grid layout<br />- Select grid layout columns<br />- Set Blog/Archives & Single pages to Left Sidebar<br />- Set Blog/Archives & Single pages to Full Width<br />- Remove meta text<br />- Remove categories/tags on blog list<br />- Blog Single page featured image as page banner<br />- Remove single page titles<br />- Add Author block on post pages"
+msgstr "<b>Características extras premium:</b><br />- Muestra la entrada completa o en resumen<br />- Incluye plantilla de cuadrícula para el blog<br />- Selecciona las columnas en diseño de cuadrícula<br />- Establece el blog/los archivos y las páginas únicas con anchura completa<br />- Establece el blog/los archivos y las páginas únicas a la barra lateral izquierda<br />- Elimina el texto meta<br />- Elimina las categorías/etiquetas en la lista del blog<br />- Imagen destacada de la página única del blog como banner de página<br />- Elimina los títulos de la página única<br />- Añade el bloque de autor en las páginas de entradas"
+
+#: customizer/customizer-options.php:660
+msgid "<b>Premium Extra Features:</b><br />- Select custom font for site title<br />- Change site title size<br />- Change site tagline size<br />- Set spacing for site tite & tagline<br /><br />- Custom settings for uploaded logo"
+msgstr "<b>Características extras premium:</b><br />- Selecciona la fuente personalizada para el título del sitio<br />- Cambia el tamaño del título del sitio<br />- Cambia el tamaño del eslogan del sitio<br />- Establece el espaciado para el título del sitio y el eslogan<br /><br />- Ajustes personalizados para el logo subido"
+
+#: customizer/customizer-options.php:586
+msgid "<b>Premium Extra Features:</b><br />- Advanced color settings for header<br />- Advanced color settings for Top Bar & Navigation<br />- Advanced color settings for footer<br />- Custom color settings for mobile navigation"
+msgstr "<b>Características extra premium:</b><br />- Ajustes de color avanzados de la cabecera<br />- Ajustes de color avanzados de la barra superior y la navegación<br />- Ajustes de color avanzados del pie de página<br />- Ajustes de color personalizados de la navegación móvil"
+
+#: customizer/customizer-options.php:300
+msgid "<b>Premium Extra Features:</b><br />- Set each slide to have custom url link<br />- Change slider size - Small / Medium / Large<br />- Scroll Duration<br />- Remove slider title/text<br />- Link slide To post<br />- Stop auto scroll<br /><br />- Extra Slider color settings"
+msgstr "<b>Cararterísticas extras premium:</b><br />- Establecer cada diapositiva para tener un enlace personalizado<br />- Cambia el tamaño del carrusel - pequeño / mediano / grande<br />- Duración del scroll<br />- Elimina el título/texto del carrusel<br />- Enlaza la diapositiva a la entrada<br />- Para el auto scroll<br /><br />- Ajustes de color del carrusel extra"
+
+#: customizer/customizer-options.php:88
+msgid "Enable a Back To Top button"
+msgstr "Habilitar un botón Volver arriba"
+
+#: customizer/customizer-options.php:578
+msgid "Premium includes custom color settings for the mobile navigation"
+msgstr "La versión premium incluye ajuste de color para la navegación móvil"
+
+#: customizer/customizer-options.php:574
+msgid "Mobile Navigation Colors"
+msgstr "Colores de la navegación móvil"
+
+#: customizer/customizer-options.php:570
+msgid "Light Skin"
+msgstr "Piel clara"
+
+#: customizer/customizer-options.php:569
+msgid "Dark Skin"
+msgstr "Piel oscura"
+
+#: customizer/customizer-options.php:275
+msgid "Slider Scroll Effect"
+msgstr "Efecto del desplazamiento del carrusel"
+
+#: customizer/customizer-options.php:271
+msgid "Scroll"
+msgstr "Desplazamiento"
+
+#: customizer/customizer-options.php:270
+msgid "Cover"
+msgstr "Portada"
+
+#: customizer/customizer-options.php:269
+msgid "Uncover Fade"
+msgstr "Descubrir con fundido"
+
+#: customizer/customizer-options.php:268
+msgid "Cover Fade"
+msgstr "Cubrir con fundido"
+
+#: customizer/customizer-options.php:267
+msgid "Cross Fade"
+msgstr "Fundido cruzado"
+
+#: customizer/customizer-options.php:110
+msgid "Select the layouts you want for the Featured Image for Blog Posts & Pages"
+msgstr "Selecciona el diseño que quieres para la Imagen destacada de páginas y entradas del blog"
+
+#: customizer/customizer-options.php:106
+msgid "Featured Image Layout"
+msgstr "Plantilla de imagen destacada"
+
+#: customizer/customizer-options.php:102
+msgid "Standard"
+msgstr "Estándar"
+
+#: customizer/customizer-options.php:170
+msgid "Header Layout"
+msgstr "Diseño de la cabecera"
+
+#: customizer/customizer-options.php:165
+msgid "Header Standard"
+msgstr "Encabezado estándar"
+
+#: customizer/customizer-options.php:316
+msgid "Alternate Layout"
+msgstr "Disposición Alternativa"
+
+#: customizer/customizer-options.php:315
+msgid "Top Layout"
+msgstr "Disposición superior"
+
+#: customizer/customizer-options.php:314
+msgid "Right Layout"
+msgstr "Disposición derecha"
+
+#: customizer/customizer-options.php:313
+msgid "Left Layout"
+msgstr "Disposición izquierda"
+
+#: customizer/customizer-options.php:95
+msgid "Center Align Page Titles"
+msgstr "Alinear títulos de Páginas"
+
+#: templates/footers/footer-standard.php:22
+msgid "<div class=\"site-container\"><div class=\"site-footer-bottom-bar-left\">Theme: %1$s by %2$s"
+msgstr "<div class=\"site-container\"><div class=\"site-footer-bottom-bar-left\">Tema: %1$s de %2$s"
+
+#: templates/footers/footer-standard.php:11
+msgid "Add your own widgets here"
+msgstr "Añade tus propios widgets aquí"
+
+#: customizer/customizer-options.php:392
+msgid "Footer Layout"
+msgstr "Disposición del pie de página"
+
+#: customizer/customizer-options.php:388
+msgid "Standard Layout"
+msgstr "Estructura estándar"
+
+#: customizer/customizer-options.php:387
+msgid "Social Layout"
+msgstr "Disposición social"
+
+#: customizer/customizer-options.php:324
+msgid "This uses the \"Large Size\" image cut"
+msgstr "Esto utiliza el corte de imagen \"Tamaño grande\""
+
+#: customizer/customizer-options.php:320
+msgid "Blog Posts Layout"
+msgstr "Diseño de las entradas del blog"
+
+#. Template Name of the theme
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: upgrade/tpl/upgrade-page.php:141
+msgid "I've purchased the Premium Theme for my Online Store. Very awesome! Support assistance 100&#37; available, easy to customize. I recommend it to everyone who want to build a Store Online. Really practicable for E-commerce."
+msgstr "He comprado el tema Premium para mi tienda en línea. ¡Muy impresionante! asistencia de soporte 100% disponible, fácil de personalizar. Se lo recomiendo a todos los que quieren construir una tienda en línea. Realmente practicable para el comercio electrónico."
+
+#: upgrade/tpl/upgrade-page.php:138
+msgid "NayWordPress"
+msgstr "NayWordPress"
+
+#: upgrade/tpl/upgrade-page.php:132
+msgid "What a great theme!! been using it for a long time, very clean code, easy to use, easy to customize, really cant say any wrong about it!!!<br /><br />Give it a try and you will not be dissapointed! this theme is THE BEST!!"
+msgstr "¡Qué gran tema! Lo he usado mucho tiempo, código muy limpio, fácil de usar, fácil de personalizar, ¡realmente no se puede decir nada malo de él!<br /><br />¡Pruébalo y no te defraudará! ¡Este tema es EL MEJOR!"
+
+#: upgrade/tpl/upgrade-page.php:129
+msgid "Fitoni"
+msgstr "Fitoni"
+
+#: upgrade/tpl/upgrade-page.php:108
+msgid "Theme Ratings"
+msgstr "Puntuaciones del tema"
+
+#: upgrade/tpl/upgrade-page.php:104
+msgid "If you like our themes and/or found our support helpful, please let us know by <a href='%s' target='_blank'>giving us a review</a>."
+msgstr "Si te gustan nuestros temas y/o has encontrado útil nuestro soporte, por favor, háznoslo saber <a href='%s' target='_blank'>dándonos una valoración</a>."
+
+#: upgrade/tpl/upgrade-page.php:102
+msgid "Upgrading will support us and enable us to keep building WordPress themes."
+msgstr "Actualizar nos apoyará y nos permitirá seguir construyendo temas de WordPress."
+
+#: includes/vogue-pro/class-customize.php:77
+msgid "Upgrade to Premium"
+msgstr "Mejorar a Premium"
+
+#: upgrade/tpl/upgrade-page.php:13
+msgid "<span>Vogue Premium </span><em>$25</em>"
+msgstr "<span>Vogue Premium </span><em>25$</em>"
+
+#: upgrade/tpl/upgrade-page.php:4 upgrade/upgrade.php:13
+msgid "About Vogue"
+msgstr "Acerca de Vogue"
+
+#: customizer/customizer-options.php:307
+msgid "Blog"
+msgstr "Blog"
+
+#: templates/slider/homepage-slider.php:105
+msgid "Easily create your online presence with our Vogue WordPress theme"
+msgstr "Crea fácilmente tu presencia online con nuestro tema de WordPress Vogue"
+
+#: templates/slider/homepage-slider.php:103
+msgid "Beautiful online store"
+msgstr "Hermosa tienda en línea"
+
+#: templates/slider/homepage-slider.php:90
+msgid "Integrated with WooCommerce, SiteOrigin's Page Builder, Contact Form 7 and more..."
+msgstr "Integrado con WooCommerce, Page Builder de SiteOrigin, Contact Form 7 y más..."
+
+#: templates/slider/homepage-slider.php:88
+msgid "Highly Customizable"
+msgstr "Muy personalizable"
+
+#: templates/header/header-layout-one.php:80
+msgid "menu"
+msgstr "menú"
+
+#: templates/footers/footer-social.php:49
+msgid "</div><div class=\"site-footer-social-copy\">Theme: %1$s by %2$s"
+msgstr "</div><div class=\"site-footer-social-copy\">Tema: %1$s de %2$s"
+
+#: templates/social-links.php:27 templates/footers/footer-social.php:34
+msgid "Find Us on Flickr"
+msgstr "Encuéntranos en Flickr"
+
+#: templates/social-links.php:23 templates/footers/footer-social.php:30
+msgid "Find Us on Tumblr"
+msgstr "Encuéntranos en Tumblr"
+
+#: templates/social-links.php:19 templates/footers/footer-social.php:26
+msgid "Find Us on LinkedIn"
+msgstr "Encuéntranos en LinkedIn"
+
+#: templates/social-links.php:15 templates/footers/footer-social.php:22
+msgid "Contact Us on Skype"
+msgstr "Contáctanos en Skype"
+
+#: templates/social-links.php:3 templates/footers/footer-social.php:10
+msgid "Send Us an Email"
+msgstr "Envíanos un correo electrónico"
+
+#: templates/contents/content.php:49 templates/contents/content-search.php:51
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: templates/contents/content.php:57 templates/contents/content-page.php:25
+#: templates/contents/content-search.php:59
+#: templates/contents/content-single.php:30
+msgid "Pages:"
+msgstr "P&aacute;ginas:"
+
+#: templates/contents/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: templates/contents/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search &amp; hit enter&hellip;"
+msgstr "Busca y pulsa enter&hellip;"
+
+#: templates/titlebar.php:17 search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de buscar: %s"
+
+#: templates/header/header-layout-three.php:91
+#: templates/header/header-layout-four.php:103
+#: templates/header/header-layout-two.php:69
+#: templates/header/header-layout-one.php:88
+#: includes/inc/woocommerce-header-inc.php:9
+msgid "View your shopping cart"
+msgstr "Ver tu carrito de la compra"
+
+#: includes/inc/template-tags.php:64
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: includes/inc/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: includes/inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: includes/inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Etiquetado con %1$s"
+
+#: includes/inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: includes/inc/template-tags.php:50 includes/inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: includes/inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: includes/inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: includes/inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: includes/inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tomar un tiempo en algunos servidores, por favor tenga paciencia."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando los plugins %1$s (%2$d/%3$d)"
+
+#: includes/inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: includes/inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. El proceso puede tomar un tiempo en algunos servidores, por favor se paciente."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Un error ha ocurrido mientras se instalaba %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando Plugin %1$s (%2$d/%3$d)"
+
+#: includes/inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Activación del plugin ha fallado."
+
+#: includes/inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ningún plugin está disponible para ser activado en este momento."
+
+#: includes/inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ningún plugin ha sido seleccionado o activado. Ninguna acción fue tomada."
+
+#: includes/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ningún plugin está disponible para ser actualizado en este momento."
+
+#: includes/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ningún plugin está disponible para ser instalado en este momento."
+
+#: includes/inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ningún plugin fue seleccionado para ser actualizado. Ninguna acción fue tomada."
+
+#: includes/inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ningún plugin fue seleccionado para ser instalado. Ninguna acción fue tomada."
+
+#: includes/inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: includes/inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: includes/inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: includes/inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: includes/inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: includes/inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: includes/inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Ningún plugin para instalar, actualizar o activar."
+
+#: includes/inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: includes/inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: includes/inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: includes/inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualizar Disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizar Disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todo <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: includes/inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: includes/inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: includes/inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Requiere actualización no disponible"
+
+#: includes/inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: includes/inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: includes/inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: includes/inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: includes/inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: includes/inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: includes/inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: includes/inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requerido"
+
+#. translators: %s: version number
+#: includes/inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/inc/class-tgm-plugin-activation.php:1121
+#: includes/inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete del plugin remoto consta de más de un archivo, pero los archivos no están empaquetados en una carpeta."
+
+#: includes/inc/class-tgm-plugin-activation.php:934
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: includes/inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+
+#: includes/inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Requiere actualización"
+
+#: includes/inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: includes/inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con al administrador de este sitio."
+
+#: includes/inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno más plugins necesarios o recomendados pendientes de instalar, actualizar o activar."
+
+#: includes/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: includes/inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugin instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin desactivado. Necesitas una versión superior de %s para este tema. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activado."
+
+#: includes/inc/class-tgm-plugin-activation.php:388
+#: includes/inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] ""
+
+#: includes/inc/class-tgm-plugin-activation.php:387
+#: includes/inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: includes/inc/class-tgm-plugin-activation.php:386
+#: includes/inc/class-tgm-plugin-activation.php:827
+#: includes/inc/class-tgm-plugin-activation.php:2533
+#: includes/inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: includes/inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de Plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar plugin"
+msgstr[1] "Comenzar a activar plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar la actualización del plugin"
+msgstr[1] "Comenzar la actualización de los plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando Plugin: %s"
+
+#. translators: %s: plugin name.
+#: includes/inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: includes/inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: includes/inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins requeridos"
+
+#: functions.php:135
+msgid "The footer will divide into however many widgets are placed here."
+msgstr "El pie de página se dividirá en tantos widgets como se coloquen aquí."
+
+#: functions.php:133
+msgid "Vogue Footer Standard"
+msgstr "Vogue pie de página estándar"
+
+#: functions.php:123
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:78
+msgid "Footer Bar Menu"
+msgstr "Menú de la barra inferior"
+
+#: functions.php:77
+msgid "Top Bar Menu"
+msgstr "Menú de la barra superior"
+
+#: functions.php:76
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: customizer/customizer-options.php:769
+msgid "Flickr"
+msgstr "Flickr"
+
+#: customizer/customizer-options.php:763
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: customizer/customizer-options.php:757
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: customizer/customizer-options.php:751
+msgid "Skype Name"
+msgstr "Usuario de Skype"
+
+#: customizer/customizer-options.php:733
+msgid "Email Address"
+msgstr "Correo electrónico"
+
+#: customizer/customizer-options.php:711
+msgid "Enter the default text for when no search results are found"
+msgstr "Introduce el texto por defecto para cuando no haya resultados de búsqueda"
+
+#: templates/contents/content-none.php:24
+#: templates/contents/content-none.php:28 customizer/customizer-options.php:710
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero no encaja nada con los términos de la búsqueda. Inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: customizer/customizer-options.php:707
+msgid "No Search Results"
+msgstr "No hay resultados"
+
+#: customizer/customizer-options.php:703
+msgid "Enter the default text on the 404 error page (Page not found)"
+msgstr "Introduce el texto por defecto de la página de error 404 (Página no encontrada)"
+
+#: customizer/customizer-options.php:699
+msgid "Error 404 Message"
+msgstr "Mensaje Error 404"
+
+#: customizer/customizer-options.php:695
+msgid "Enter the heading for the 404 Error page"
+msgstr "Introduce el encabezado de la página de Error 404"
+
+#: customizer/customizer-options.php:691
+msgid "404 Error Page Heading"
+msgstr "Encabezado de la página de error 404"
+
+#: templates/header/header-layout-one.php:35
+#: customizer/customizer-options.php:686
+msgid "Call Us: +2782 444 YEAH"
+msgstr "Llámanos: +2782 444 YEAH"
+
+#: customizer/customizer-options.php:683
+msgid "Header Phone Number"
+msgstr "Número de teléfono de la cabecera"
+
+#: templates/footers/footer-social.php:47
+#: templates/header/header-layout-one.php:25
+#: customizer/customizer-options.php:678
+msgid "Cape Town, South Africa"
+msgstr "Ciudad del Cabo, Sudáfrica"
+
+#: customizer/customizer-options.php:675
+msgid "Header Address"
+msgstr "Dirección de la cabecera"
+
+#: customizer/customizer-options.php:407
+msgid "Remove the Bottom Bar"
+msgstr "Eliminar la barra inferior"
+
+#: customizer/customizer-options.php:353
+msgid "Enter the ID's of the post categories you'd like to EXCLUDE from the Blog, enter only the ID's with a minus sign (-) before them, separated by a comma (,)<br />Eg: \"-13, -17, -19\"<br /><br />If you enter the ID's without the minus then it'll show ONLY posts in those categories.<br /><br />Get the ID at <b>Posts -> Categories</b>."
+msgstr "Introduce el ID de las categorías que te gustaría EXCLUIR del Blog, introduce únicamente el ID con un guión (-) delante, separados por una coma (,)<br />Ej: \"-13, -17, -19\"<br /><br />Si introduces el ID sin el guión, SÓLO se mostrarán las entradas de esas categorías.<br /><br />Obtén el ID en <b>Entradas -> Categorías</b>."
+
+#: customizer/customizer-options.php:350
+msgid "Exclude Blog Categories"
+msgstr "Excluir categorías del blog"
+
+#: customizer/customizer-options.php:643
+msgid "Heading Font Color"
+msgstr "Color de fuente en la cabecera"
+
+#: customizer/customizer-options.php:627 customizer/customizer-options.php:635
+msgid "Heading Font"
+msgstr "Fuente de la cabecera"
+
+#: customizer/customizer-options.php:619
+msgid "Body Font Color"
+msgstr "Color de la Fuente del Cuerpo"
+
+#: customizer/customizer-options.php:603 customizer/customizer-options.php:611
+msgid "Body Font"
+msgstr "Fuente del cuerpo"
+
+#: customizer/customizer-options.php:563
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: customizer/customizer-options.php:556
+msgid "Primary Color"
+msgstr "Color primario"
+
+#: customizer/customizer-options.php:550
+msgid "Colors"
+msgstr "Colores"
+
+#: customizer/customizer-options.php:241 customizer/customizer-options.php:261
+msgid "Slider Shortcode"
+msgstr "Shortcode del carrusel"
+
+#: customizer/customizer-options.php:254
+msgid "Slider Categories"
+msgstr "Categorías del carrusel"
+
+#: customizer/customizer-options.php:246
+msgid "Choose a Slider"
+msgstr "Elige un carrusel"
+
+#: customizer/customizer-options.php:101 customizer/customizer-options.php:242
+msgid "None"
+msgstr "Nada"
+
+#: functions.php:396
+msgid "Meta Slider"
+msgstr "Meta Slider"
+
+#: customizer/customizer-options.php:240
+msgid "Default Slider"
+msgstr "Carrusel por defecto"
+
+#: customizer/customizer-options.php:190
+msgid "This is the text for the mobile menu button"
+msgstr "Este es el texto para el botón Menú en dispositivos móviles"
+
+#: customizer/customizer-options.php:186
+msgid "Menu Button Text"
+msgstr "Texto del botón Menú"
+
+#: customizer/customizer-options.php:156
+msgid "Remove the Top Bar"
+msgstr "Eliminar la barra superior"
+
+#: customizer/customizer-library/extensions/fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr "Monospaced"
+
+#: customizer/customizer-library/extensions/fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: customizer/customizer-library/extensions/fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr "Latin Extended"
+
+#: customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr "Latin"
+
+#: customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr "Khmer"
+
+#: customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr "Greek Extended"
+
+#: customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr "Greek"
+
+#: customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr "Cyrillic Extended"
+
+#: customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr "Cyrillic"
+
+#: customizer/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr "Todos"
+
+#: customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr "Fuentes estándar"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios sobre &ldquo;%2$s&rdquo;"
+
+#: 404.php:25 customizer/customizer-options.php:702
+msgid "It looks like that page does not exist. <br />Return home or try a search"
+msgstr "Parece que esa página no existe.<br />Vuelve a la portada o prueba con una búsqueda"
+
+#: 404.php:20 customizer/customizer-options.php:694
+msgid "Oops! <span>404</span>"
+msgstr "¡Uy! <span>404</span>"
+
+#. Author URI of the theme
+msgid "https://kairaweb.com/"
+msgstr "https://kairaweb.com/"
+
+#. Author of the theme
+msgid "Kaira"
+msgstr "Kaira"
+
+#. Theme URI of the theme
+msgid "https://kairaweb.com/theme/vogue/"
+msgstr "https://kairaweb.com/theme/vogue/"
